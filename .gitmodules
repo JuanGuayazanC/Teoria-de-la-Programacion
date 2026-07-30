@@ -1,0 +1,8 @@
+[submodule "Proyectos/Minimizacion-costos-replicacion-TPRO"]
+	path = Proyectos/Minimizacion-costos-replicacion-TPRO
+	url = https://github.com/JuanGuayazanC/Minimizacion-costos-replicacion-TPRO.git
+	branch = main
+[submodule "Recursos/Dividir-y-Conquistar--Programacion-dinamica-TPRO"]
+	path = Recursos/Dividir-y-Conquistar--Programacion-dinamica-TPRO
+	url = https://github.com/JuanGuayazanC/Dividir-y-Conquistar--Programacion-dinamica-TPRO.git
+	branch = main
