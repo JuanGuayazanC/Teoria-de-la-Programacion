@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Teor-a-de-la-Programaci-n/
+Teoria-de-la-Programacion/
 ├── Proyectos/
 │   └── Minimizacion-costos-replicacion-TPRO/
 └── Recursos/
@@ -38,7 +38,7 @@ El curso recorre el diseño y análisis formal de algoritmos, desde la especific
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Teor-a-de-la-Programaci-n.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Teoria-de-la-Programacion.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
