@@ -1,8 +1,8 @@
 # Teoría de la Programación (TPRO)
 
-Repositorio general del curso Teoría de la Programación (ISIS TPRO-1), que agrupa —mediante submódulos de git— los proyectos y recursos del curso.
+Repositorio general del curso Teoría de la Programación, que agrupa —mediante submódulos de git— los proyectos y recursos del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -35,7 +35,16 @@ El curso recorre el diseño y análisis formal de algoritmos, desde la especific
 - Python
 - Haskell (GHCi)
 
-## Cómo clonar
+## Profesor
+
+Raúl Alfredo Chaparro Aguilar.
+
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes (proyectos y recursos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Teoria-de-la-Programacion.git
