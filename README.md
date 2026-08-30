@@ -1,6 +1,8 @@
 # Teoría de la Programación (TPRO)
 
-Repositorio general del curso. Para saber cómo aprovecharlo, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
+Repositorio general del curso Teoría de la Programación, que agrupa —mediante submódulos de git— los proyectos y recursos del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
